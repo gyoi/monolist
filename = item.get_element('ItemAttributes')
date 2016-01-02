@@ -1,0 +1,108 @@
+=> [32m#<Amazon::Element:0x00000004522778[0m
+ @element[32m=[0m
+  [1;34m#(Element:0x22912cc {[0m
+    name = [31m[1;31m"[0m[31mItem[1;31m"[0m[31m[0m,
+    children = [
+      [1;34m#(Element:0x3ff29a85d6cc {[0m name = [31m[1;31m"[0m[31mASIN[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m4797386290[1;31m"[0m[31m[0m)] }),
+      [1;34m#(Element:0x3ff29a863338 {[0m
+        name = [31m[1;31m"[0m[31mDetailPageURL[1;31m"[0m[31m[0m,
+        children = [
+          [1;34m#(Text [0m[31m[1;31m"[0m[31mhttp://www.amazon.co.jp/%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84Ruby-%E7%AC%AC5%E7%89%88-%E9%AB%98%E6%A9%8B-%E5%BE%81%E7%BE%A9/dp/4797386290%3FSubscriptionId%3DAKIAIAQG2RECC3YPFWDQ%26tag%3Dgyoi-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4797386290[1;31m"[0m[31m[0m)]
+        }),
+      [1;34m#(Element:0x3ff29a86acb4 {[0m
+        name = [31m[1;31m"[0m[31mItemLinks[1;31m"[0m[31m[0m,
+        children = [
+          [1;34m#(Element:0x1ffa0cc {[0m
+            name = [31m[1;31m"[0m[31mItemLink[1;31m"[0m[31m[0m,
+            children = [
+              [1;34m#(Element:0x3ff29a86e558 {[0m name = [31m[1;31m"[0m[31mDescription[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mAdd To Wishlist[1;31m"[0m[31m[0m)] }),
+              [1;34m#(Element:0x1fe8dcc {[0m
+                name = [31m[1;31m"[0m[31mURL[1;31m"[0m[31m[0m,
+                children = [
+                  [1;34m#(Text [0m[31m[1;31m"[0m[31mhttp://www.amazon.co.jp/gp/registry/wishlist/add-item.html%3Fasin.0%3D4797386290%26SubscriptionId%3DAKIAIAQG2RECC3YPFWDQ%26tag%3Dgyoi-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D4797386290[1;31m"[0m[31m[0m)]
+                })]
+            }),
+          [1;34m#(Element:0x3ff29a882904 {[0m
+            name = [31m[1;31m"[0m[31mItemLink[1;31m"[0m[31m[0m,
+            children = [
+              [1;34m#(Element:0x3ff29a885848 {[0m name = [31m[1;31m"[0m[31mDescription[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mTell A Friend[1;31m"[0m[31m[0m)] }),
+              [1;34m#(Element:0x3ff29a88b1a8 {[0m
+                name = [31m[1;31m"[0m[31mURL[1;31m"[0m[31m[0m,
+                children = [
+                  [1;34m#(Text [0m[31m[1;31m"[0m[31mhttp://www.amazon.co.jp/gp/pdp/taf/4797386290%3FSubscriptionId%3DAKIAIAQG2RECC3YPFWDQ%26tag%3Dgyoi-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D4797386290[1;31m"[0m[31m[0m)]
+                })]
+            }),
+          [1;34m#(Element:0x1fa9b40 {[0m
+            name = [31m[1;31m"[0m[31mItemLink[1;31m"[0m[31m[0m,
+            children = [
+              [1;34m#(Element:0x3ff29a899118 {[0m name = [31m[1;31m"[0m[31mDescription[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mAll Customer Reviews[1;31m"[0m[31m[0m)] }),
+              [1;34m#(Element:0x3ff29a89ef8c {[0m
+                name = [31m[1;31m"[0m[31mURL[1;31m"[0m[31m[0m,
+                children = [
+                  [1;34m#(Text [0m[31m[1;31m"[0m[31mhttp://www.amazon.co.jp/review/product/4797386290%3FSubscriptionId%3DAKIAIAQG2RECC3YPFWDQ%26tag%3Dgyoi-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D4797386290[1;31m"[0m[31m[0m)]
+                })]
+            }),
+          [1;34m#(Element:0x3ff29a8a6340 {[0m
+            name = [31m[1;31m"[0m[31mItemLink[1;31m"[0m[31m[0m,
+            children = [
+              [1;34m#(Element:0x3ff29a8ab6d8 {[0m name = [31m[1;31m"[0m[31mDescription[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mAll Offers[1;31m"[0m[31m[0m)] }),
+              [1;34m#(Element:0x3ff29a8b118c {[0m
+                name = [31m[1;31m"[0m[31mURL[1;31m"[0m[31m[0m,
+                children = [
+                  [1;34m#(Text [0m[31m[1;31m"[0m[31mhttp://www.amazon.co.jp/gp/offer-listing/4797386290%3FSubscriptionId%3DAKIAIAQG2RECC3YPFWDQ%26tag%3Dgyoi-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D4797386290[1;31m"[0m[31m[0m)]
+                })]
+            })]
+        }),
+      [1;34m#(Element:0x1f60508 {[0m name = [31m[1;31m"[0m[31mSalesRank[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m226370[1;31m"[0m[31m[0m)] }),
+      [1;34m#(Element:0x3ff29a8b938c {[0m
+        name = [31m[1;31m"[0m[31mItemAttributes[1;31m"[0m[31m[0m,
+        children = [
+          [1;34m#(Element:0x3ff29a8bb6f0 {[0m name = [31m[1;31m"[0m[31mAuthor[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m高橋 征義[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x3ff29a8c1208 {[0m name = [31m[1;31m"[0m[31mAuthor[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m後藤 裕蔵[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x3ff29a8cb550 {[0m name = [31m[1;31m"[0m[31mBinding[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m単行本[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x1f2569c {[0m name = [31m[1;31m"[0m[31mEAN[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m9784797386295[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x3ff29a8d701c {[0m name = [31m[1;31m"[0m[31mEANList[1;31m"[0m[31m[0m, children = [ [1;34m#(Element:0x3ff29a8dcbd4 {[0m name = [31m[1;31m"[0m[31mEANListElement[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m9784797386295[1;31m"[0m[31m[0m)] })] }),
+          [1;34m#(Element:0x1f03ca4 {[0m name = [31m[1;31m"[0m[31mEdition[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m5[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x3ff29a8e877c {[0m name = [31m[1;31m"[0m[31mIsAdultProduct[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m0[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x3ff29a8efd38 {[0m name = [31m[1;31m"[0m[31mISBN[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m4797386290[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x3ff29a8f2268 {[0m name = [31m[1;31m"[0m[31mLabel[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mSBクリエイティブ[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x3ff29a8fcf9c {[0m
+            name = [31m[1;31m"[0m[31mLanguages[1;31m"[0m[31m[0m,
+            children = [
+              [1;34m#(Element:0x3ff29a901128 {[0m
+                name = [31m[1;31m"[0m[31mLanguage[1;31m"[0m[31m[0m,
+                children = [ [1;34m#(Element:0x1ec8d20 {[0m name = [31m[1;31m"[0m[31mName[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m日本語[1;31m"[0m[31m[0m)] }), [1;34m#(Element:0x3ff29a90ba24 {[0m name = [31m[1;31m"[0m[31mType[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mPublished[1;31m"[0m[31m[0m)] })]
+                })]
+            }),
+          [1;34m#(Element:0x1ea54b0 {[0m
+            name = [31m[1;31m"[0m[31mListPrice[1;31m"[0m[31m[0m,
+            children = [
+              [1;34m#(Element:0x3ff29a916960 {[0m name = [31m[1;31m"[0m[31mAmount[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m3024[1;31m"[0m[31m[0m)] }),
+              [1;34m#(Element:0x3ff29a91a524 {[0m name = [31m[1;31m"[0m[31mCurrencyCode[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mJPY[1;31m"[0m[31m[0m)] }),
+              [1;34m#(Element:0x3ff29a924dd0 {[0m name = [31m[1;31m"[0m[31mFormattedPrice[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m￥ 3,024[1;31m"[0m[31m[0m)] })]
+            }),
+          [1;34m#(Element:0x3ff29a92ca80 {[0m name = [31m[1;31m"[0m[31mManufacturer[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mSBクリエイティブ[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x1e6bcd8 {[0m name = [31m[1;31m"[0m[31mNumberOfPages[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m520[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x3ff29a93b404 {[0m name = [31m[1;31m"[0m[31mProductGroup[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mBook[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x1e510a4 {[0m name = [31m[1;31m"[0m[31mProductTypeName[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mABIS_BOOK[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x3ff29a948d20 {[0m name = [31m[1;31m"[0m[31mPublicationDate[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m2016-02-26[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x1e388ec {[0m name = [31m[1;31m"[0m[31mPublisher[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mSBクリエイティブ[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x3ff29a9569c0 {[0m name = [31m[1;31m"[0m[31mStudio[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mSBクリエイティブ[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x1e1e064 {[0m name = [31m[1;31m"[0m[31mTitle[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mたのしいRuby 第5版[1;31m"[0m[31m[0m)] })]
+        }),
+      [1;34m#(Element:0x3ff29a969750 {[0m
+        name = [31m[1;31m"[0m[31mOfferSummary[1;31m"[0m[31m[0m,
+        children = [
+          [1;34m#(Element:0x1e02c60 {[0m
+            name = [31m[1;31m"[0m[31mLowestNewPrice[1;31m"[0m[31m[0m,
+            children = [
+              [1;34m#(Element:0x3ff29a96caf4 {[0m name = [31m[1;31m"[0m[31mAmount[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m3024[1;31m"[0m[31m[0m)] }),
+              [1;34m#(Element:0x1df1c08 {[0m name = [31m[1;31m"[0m[31mCurrencyCode[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mJPY[1;31m"[0m[31m[0m)] }),
+              [1;34m#(Element:0x3ff29a97c328 {[0m name = [31m[1;31m"[0m[31mFormattedPrice[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m￥ 3,024[1;31m"[0m[31m[0m)] })]
+            }),
+          [1;34m#(Element:0x1dcf644 {[0m name = [31m[1;31m"[0m[31mTotalNew[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m1[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x1dc4398 {[0m name = [31m[1;31m"[0m[31mTotalUsed[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m0[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x3ff29a98e7a8 {[0m name = [31m[1;31m"[0m[31mTotalCollectible[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m0[1;31m"[0m[31m[0m)] }),
+          [1;34m#(Element:0x3ff29a999b1c {[0m name = [31m[1;31m"[0m[31mTotalRefurbished[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m0[1;31m"[0m[31m[0m)] })]
+        })]
+    })[32m>[0m
